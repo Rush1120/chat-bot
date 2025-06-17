@@ -16,13 +16,13 @@ cd chat-bot
 # Follow your framework's setup instructions here
 ```
 
-## 🚦 Usage
+##  Usage
 
 1. Start the app.
 2. Open your browser.
 3. Say hello to your new chatty friend.
 
-## 🤔 Why?
+## Why?
 
 Because sometimes you just need a chatbot that works—no nonsense, no bloat, just pure conversation.
 
