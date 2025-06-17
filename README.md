@@ -33,14 +33,6 @@ cd chat-bot
 
 Because sometimes you just need a chatbot that works—no nonsense, no bloat, just pure conversation.
 
-## 🧑‍💻 Contributing
 
-Found a bug? Got a feature idea? Pull requests and issues are always welcome. Bring your wit and wisdom.
 
-## 📄 License
 
-MIT. Use it, break it, fix it, share it. Just don’t blame us if it becomes self-aware.
-
----
-
-*Built with honesty, a dash of wit, and a lot of coffee.*
