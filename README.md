@@ -6,13 +6,6 @@ Welcome to **Chat-Bot** – a simple, snappy, and surprisingly clever chat box b
 
 Chat-Bot is a lightweight, user-friendly chat interface designed to make conversations with your code as smooth as butter. Whether you’re debugging, demoing, or just bored, this bot is here to chat.
 
-##  Features
-
-- Real-time messaging (because waiting is so 1999)
-- Clean and intuitive UI (your eyes will thank you)
-- Easy to set up, easier to use
-- Open-source and ready for your wildest ideas
-
 ##  Installation
 
 Clone the repo, and let’s get chatting:
